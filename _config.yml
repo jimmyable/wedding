@@ -1,9 +1,9 @@
 # Site settings
 title: Chris & Nikita
 email: chris@baclig.me
-url: http://www.chrisandnikita.com
+url: https://jimmyable.github.io/
 description: "We're getting married and can't wait to celebrate with you!"
-baseurl: "/wedding_works"
+baseurl: "/wedding"
 #host: 0.0.0.0 # listen to LAN connections
 gems:
   - jekyll-sitemap
