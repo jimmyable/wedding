@@ -1,9 +1,9 @@
 # Site settings
-title: Chris & Nikita
-email: chris@baclig.me
-url: https://jimmyable.github.io/
+title: Jimmy & Nikhita
+email: jimmyjoseph@outlook.com
+url: http://www.chrisandnikita.com
 description: "We're getting married and can't wait to celebrate with you!"
-baseurl: "/wedding"
+baseurl: ""
 #host: 0.0.0.0 # listen to LAN connections
 gems:
   - jekyll-sitemap
@@ -153,96 +153,96 @@ people:
     - name: Samantha Baclig
       pic: samie.jpg
       role: Junior Bridesmaid
-      description: Chris’ Sister
+      description: Jimmy’ Sister
     - name: Ronak Vashi
       pic: ronak.jpg
       role: Bridesmaid
-      description: Nikita’s Cousin
+      description: Nikhita’s Cousin
     - name: Trisha DaSilva
       pic: trisha.jpg
       role: Bridesmaid
-      description: Nikita’s Cousin
+      description: Nikhita’s Cousin
     - name: Gabby Colaianni
       pic: gabbyc.jpg
       role: Bridesmaid
-      description: Nikita’s High School Friend
+      description: Nikhita’s High School Friend
     - name: Devyn Brown
       pic: devyn.jpg
       role: Bridesmaid
-      description: Nikita’s College Roommate
+      description: Nikhita’s College Roommate
     - name: Chelsea Barabas
       pic: chelsea.jpg
       role: Bridesmaid
-      description: Nikita’s College Roommate
+      description: Nikhita’s College Roommate
     - name: Tanya Aylward
       pic: tanya.jpg
       role: Bridesmaid
-      description: Nikita’s College Friend
+      description: Nikhita’s College Friend
     - name: Sanjana Tandon
       pic: sanjana.jpg
       role: Bridesmaid
-      description: Nikita’s College Friend
+      description: Nikhita’s College Friend
     - name: Leigha Winters
       pic: leigha.jpg
       role: Bridesmaid
-      description: Nikita’s Post-College Roommate
+      description: Nikhita’s Post-College Roommate
     - name: Miriam Komisar
       pic: miriam.jpg
       role: Bridesmaid
-      description: Nikita’s Medical School  Friend
+      description: Nikhita’s Medical School  Friend
     - name: Meagan Appleman
       pic: meagan.jpg
       role: Bridesmaid
-      description: Nikita’s Medical School Friend
+      description: Nikhita’s Medical School Friend
     - name: Gabby Aguilar
       pic: gabbya.jpg
       role: Bridesmaid
-      description: Nikita’s Medical School Friend
+      description: Nikhita’s Medical School Friend
   his_side:
     - name: Jonathan Baclig
       pic: jon.jpg
       role: Best Man
-      description: Chris’ Brother
+      description: Jimmy’ Brother
     - name: Rohan Vashi
       pic: rohan.jpg
       role: Groomsman
-      description: Nikita’s Brother
+      description: Nikhita’s Brother
     - name: Ryan Abad
       pic: ryan.jpg
       role: Groomsman
-      description: Chris’ Cousin
+      description: Jimmy’ Cousin
     - name: Gabriel Mendoza
       pic: gabe.jpg
       role: Groomsman
-      description: Chris’ High School Friend
+      description: Jimmy’ High School Friend
     - name: Eric Ma
       pic: eric.jpg
       role: Groomsman
-      description: Chris’ College Roommate
+      description: Jimmy’ College Roommate
     - name: Rajan Patel
       pic: rajan.jpg
       role: Groomsman
-      description: Chris’ College Roommate
+      description: Jimmy’ College Roommate
     - name: Arpeet Shah
       pic: arpeet.jpg
       role: Groomsman
-      description: Chris’ College Friend
+      description: Jimmy’ College Friend
     - name: Winston Lofton
       pic: winston.jpg
       role: Groomsman
-      description: Chris’ College Friend
+      description: Jimmy’ College Friend
     - name: Scott Keyes
       pic: scott.jpg
       role: Groomsman
-      description: Chris’ College Friend
+      description: Jimmy’ College Friend
     - name: Isaac Johnson
       pic: isaac.jpg
       role: Groomsman
-      description: Chris’ Post-College Roommate
+      description: Jimmy’ Post-College Roommate
     - name: Dare Kolawale
       pic: dare.jpg
       role: Groomsman
-      description: Chris’ Post-College  Roommate
+      description: Jimmy’ Post-College  Roommate
 faq:
   chi:
     - question: OMG what do I wear?
@@ -264,7 +264,7 @@ faq:
 
     - question: Do you have a sari I can borrow?
       answer: |
-        Maybe! Nikita has already doled out many of her Indian outfits, but if you're still interested shoot her an email (nvashi25@gmail.com) and she'll check.
+        Maybe! Nikhita has already doled out many of her Indian outfits, but if you're still interested shoot her an email (nvashi25@gmail.com) and she'll check.
     - question: |
         I have a pretty seriously allergy to [insert allergen here], can you accomodate me?
       answer: |
@@ -277,15 +277,15 @@ faq:
     - question: What's happening Saturday night and Sunday morning?
       answer: |
         Nothing! There will be lunch served directly after the Hindu ceremony on Saturday, but after that, you're free! There are a lot of things going on in Chicago that weekend, so consider this half-time. Feel free to explore the city at your own pace, and rest up before the home stretch.
-    - question: Is Chris going to ride in on a/an [insert large mammal here]?
+    - question: Is Jimmy going to ride in on a/an [insert large mammal here]?
       answer: |
-        No, unless you're asking if Chris is going to ride a horse. Then the answer is yes - Chris is going to ride in on a white horse at the Baraat on Saturday.
+        No, unless you're asking if Jimmy is going to ride a horse. Then the answer is yes - Jimmy is going to ride in on a white horse at the Baraat on Saturday.
     - question: Do I have to dance at the Garba?
       answer: No! Although we have a feeling you're going to want to once you see everyone doing it. Peer pressure is a real thing.
     - question: What kind of sick moves am I going to learn on Friday night?
       answer: Friday night will consist of garba and raas, two different styles of Indian dance. Garba is a repetitive, circular group dance (think electric slide, but in a circle). Raas is a partner dance (don't worry - we'll find you all partners!) with sticks that happens in long rotating lines.  I know this sounds complex, but we'll be hosting tutorials on Friday night and will have plenty of people circulating to answer any questions about the dance.  And, for those of you with some dance anxiety, there will be an open bar :)
     - question: I heard you're moving!  Where and when?
-    - answer: We are!  We're moving to Seattle directly after the wedding so Nikita can start her internal medicine residency at University of Washington, so we're extremely excited to spend this last epic Chicago weekend with you all :)
+    - answer: We are!  We're moving to Seattle directly after the wedding so Nikhita can start her internal medicine residency at University of Washington, so we're extremely excited to spend this last epic Chicago weekend with you all :)
 
   lbc: false
 
