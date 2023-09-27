@@ -5,7 +5,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
                     <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand" href="/">
+                <a class="navbar-brand" href="/wedding">
                   J & N
                 </a>
             </div>
@@ -20,7 +20,7 @@
                     <li class="{% if page.url == '/' %}active{% endif %}">
                         <a href="/"> Our Story</a>
                     </li>
-                    <li class="{% if page.url == '/celebrations/' %}active{% endif %}">
+                    <!-- <li class="{% if page.url == '/celebrations/' %}active{% endif %}">
                         <a href="/celebrations">Celebrations</a>
                     </li>
                     <li class="{% if page.url == '/people/' %}active{% endif %}">
@@ -32,12 +32,12 @@
                     {% if site.faq[site.context] %}
                       <li class="{% if page.url == '/faq/' %}active{% endif %}">
                         <a href="/faq">FAQ</a>
-                      </li>
+                      </li> -->
                     {% endif %}
                     {% if site.guide[site.context] %}
                       <li class="{% if page.url == '/faq/' %}active{% endif %}">
-                        <a href="/guide">City Guide</a>
-                      </li>
+                        <a href="/wedding/guide">Directions</a>
+                      </li><!--
                     {% endif %}
                     <li class="{% if page.url == '/etc/' %}active{% endif %}">
                       <a href="/etc">Etc</a>
@@ -48,7 +48,7 @@
                             <i class="fa fa-exclamation-circle notification-link--icon"></i>
                             Updates
                           </a>
-                        </li>
+                        </li> -->
                     {% endif %}
                 </ul>
             </div>
